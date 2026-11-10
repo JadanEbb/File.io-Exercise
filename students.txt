@@ -1,0 +1,10 @@
+Marc
+2.5
+john
+3.0
+Robert
+5.0
+japan
+2.8
+Arries
+4.4
